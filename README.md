@@ -24,7 +24,7 @@ Enhance User Experience (Analogy Prompting): For technical or complex topics, in
 ## Prompt:
 Give a scenario-based report on designing and implementing an AI powered chatbot for customer support and enquires. Apply more prompting techniques like( Personabased, Instruction-based, and Scenario-based)
 ## Output:
-<img width="311" height="162" alt="image" src="https://github.com/user-attachments/assets/13e96fb2-0ff4-4df1-be3f-15a9c5c2072c" />
+<img width="941" height="491" alt="image" src="https://github.com/user-attachments/assets/e5a04c68-0096-45c9-a957-001a36bcf28c" />
 
 1. The RetailCo Scenario: A Customer Support Challenge
 RetailCo operates a popular e-commerce platform specializing in home goods. They receive thousands of customer inquiries daily related to order status, returns, product information, and technical issues. The current human-driven support system is overwhelmed, leading to long wait times and customer dissatisfaction. The goal is to deploy "Retail-Bot" to handle up to 80% of routine inquiries, freeing up human agents for more complex issues.
